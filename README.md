@@ -2,9 +2,9 @@
 
 📊 Tableau Data Analysis: Global Health & Spotify Audio Insights
 
-🚀 Project Type: Data Technician Bootcamp[cite: 1] 
-👨‍💻 Author: Neil Wong | 📅 Date: June 2026[cite: 1] 
-🎯 Objective: Transform raw datasets into structured visualisations and interactive dashboards to identify key health and audio trends for organizational support[cite: 1].
+🚀 Project Type: Data Technician Bootcamp  
+👨‍💻 Author: Neil Wong | 📅 Date: June 2026  
+🎯 Objective: Transform raw datasets into structured visualisations and interactive dashboards to identify key health and audio trends for organisational support .
 
 ---
 
@@ -14,10 +14,10 @@ A quick breakdown of the Tableau tools and functions leveraged in this project:
 
 | Category | Tools & Functions Demonstrated |
 | :--- | :--- |
-| 📊 Dashboards & UI | Combining multiple worksheets into single interactive dashboards[cite: 1] |
-| 🔍 Filtering & Slicers | Applying single-value dropdowns, continent filters, and Top N filters[cite: 1] |
-| 🧮 Calculations & Aggregations | Utilizing quick table calculations like Percentage of Total[cite: 1] |
-| 📈 Visualisation Types | Bar charts, line charts, pie charts, scatter plots, geographic maps, and heatmaps[cite: 1] |
+| 📊 Dashboards & UI | Combining multiple worksheets into single interactive dashboards  |
+| 🔍 Filtering & Slicers | Applying single-value dropdowns, continent filters, and Top N filters  |
+| 🧮 Calculations & Aggregations | Utilising quick table calculations like Percentage of Total  |
+| 📈 Visualisation Types | Bar charts, line charts, pie charts, scatter plots, geographic maps, and heatmaps  |
 
 ---
 
@@ -25,17 +25,20 @@ A quick breakdown of the Tableau tools and functions leveraged in this project:
 
 🌍 1. Global Health Insights Dashboard
 
-*   **Scenario & Dataset:** Acted as a data analyst for a global health organization using the GapminderHealth dataset to analyze health trends and disparities[cite: 1].
-*   **Life Expectancy by Continent:** Created a bar chart showing average life expectancy for each continent filtered to the most recent year (2008) and sorted[cite: 1].
-*   **Life Expectancy Trend:** Built a line chart displaying average life expectancy trends over time, filtered for the top 5 countries using a Top N filter[cite: 1].
-*   **Population by Gender:** Developed a pie chart showing population distribution by gender for the latest year with a single-value country dropdown filter and percentage of total labels[cite: 1].
-*   **Health Metric Comparison:** Designed a scatter plot exploring the relationship between average life expectancy and average BMI, utilizing continent colors and filters[cite: 1].
-*   **Geographic Cholesterol Analysis:** Mapped average cholesterol levels globally, finding that Europe and North America display the highest levels while Africa and Asia show the lowest[cite: 1].
+*   **Scenario & Dataset:** Acted as a data analyst for a global health organisation using the GapminderHealth dataset to analyse health trends and disparities .
+*   **Life Expectancy by Continent:** Created a bar chart showing average life expectancy for each continent filtered to the most recent year (2008) and sorted .
+*   **Life Expectancy Trend:** Built a line chart displaying average life expectancy trends over time, filtered for the top 5 countries using a Top N filter .
+*   **Population by Gender:** Developed a pie chart showing population distribution by gender for the latest year with a single-value country dropdown filter and percentage of total labels .
+*   **Health Metric Comparison:** Designed a scatter plot exploring the relationship between average life expectancy and average BMI, utilizing continent colors and filters .
+*   **Geographic Cholesterol Analysis:** Mapped average cholesterol levels globally, finding that Europe and North America display the highest levels while Africa and Asia show the lowest .
+*   <img width="2544" height="1406" alt="image" src="https://github.com/user-attachments/assets/0a69420b-d360-4b98-903e-a40c3b65a21b" />
+
 
 🎵 2. Spotify Audio Features Analysis
 
-*   **Dataset & Scope:** Imported the Spotify features CSV dataset to analyze track popularity, musical structure, and audio attributes[cite: 1].
-*   **Top 50 Artists:** Visualized the top 50 most popular artists using a ranked bar chart based on sum of popularity[cite: 1].
-*   **Energy vs. Valence:** Explored musical characteristics by plotting average energy against average valence broken down by genre[cite: 1].
-*   **Top Genres & Tempo:** Analyzed top genres by popularity and tempo using horizontal bar charts[cite: 1].
-*   **Hit Composition Matrix:** Developed the "How HITS Are Made" heatmap to analyze common notes, keys, and modes used across top tracks[cite: 1].
+*   **Dataset & Scope:** Imported the Spotify features CSV dataset to analyse track popularity, musical structure, and audio attributes .
+*   **Top 50 Artists:** Visualised the top 50 most popular artists using a ranked bar chart based on sum of popularity .
+*   **Energy vs. Valence:** Explored musical characteristics by plotting average energy against average valence broken down by genre .
+*   **Top Genres & Tempo:** Analysed top genres by popularity and tempo using horizontal bar charts .
+*   **Hit Composition Matrix:** Developed the "How HITS Are Made" heatmap to analyze common notes, keys, and modes used across top tracks .
+*   <img width="2543" height="1400" alt="image" src="https://github.com/user-attachments/assets/b3332b8b-11ed-4c95-872b-4d74db5f95a1" />
