@@ -31,7 +31,8 @@ A quick breakdown of the Tableau tools and functions leveraged in this project:
 *   **Population by Gender:** Developed a pie chart showing population distribution by gender for the latest year with a single-value country dropdown filter and percentage of total labels .
 *   **Health Metric Comparison:** Designed a scatter plot exploring the relationship between average life expectancy and average BMI, utilizing continent colors and filters .
 *   **Geographic Cholesterol Analysis:** Mapped average cholesterol levels globally, finding that Europe and North America display the highest levels while Africa and Asia show the lowest .
-*   <img width="2544" height="1406" alt="image" src="https://github.com/user-attachments/assets/0a69420b-d360-4b98-903e-a40c3b65a21b" />
+*   <img width="2345" height="1261" alt="image" src="https://github.com/user-attachments/assets/b9f22b11-9187-4e97-958e-34ac4644af7f" />
+
 
 
 🎵 2. Spotify Audio Features Analysis
@@ -41,4 +42,5 @@ A quick breakdown of the Tableau tools and functions leveraged in this project:
 *   **Energy vs. Valence:** Explored musical characteristics by plotting average energy against average valence broken down by genre .
 *   **Top Genres & Tempo:** Analysed top genres by popularity and tempo using horizontal bar charts .
 *   **Hit Composition Matrix:** Developed the "How HITS Are Made" heatmap to analyze common notes, keys, and modes used across top tracks .
-*   <img width="2543" height="1400" alt="image" src="https://github.com/user-attachments/assets/b3332b8b-11ed-4c95-872b-4d74db5f95a1" />
+*   <img width="2346" height="1260" alt="image" src="https://github.com/user-attachments/assets/cc11f841-540c-423f-8ddd-f88974acd02e" />
+
