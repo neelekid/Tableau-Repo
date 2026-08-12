@@ -42,5 +42,6 @@ A quick breakdown of the Tableau tools and functions leveraged in this project:
 *   **Energy vs. Valence:** Explored musical characteristics by plotting average energy against average valence broken down by genre .
 *   **Top Genres & Tempo:** Analysed top genres by popularity and tempo using horizontal bar charts .
 *   **Hit Composition Matrix:** Developed the "How HITS Are Made" heatmap to analyze common notes, keys, and modes used across top tracks .
-*   <img width="2346" height="1260" alt="image" src="https://github.com/user-attachments/assets/cc11f841-540c-423f-8ddd-f88974acd02e" />
+*   <img width="2080" height="1075" alt="image" src="https://github.com/user-attachments/assets/2b862cee-3a89-48b1-84c4-bcbbd510c3be" />
+
 
