@@ -45,3 +45,11 @@ A quick breakdown of the Tableau tools and functions leveraged in this project:
 *   <img width="2080" height="1075" alt="image" src="https://github.com/user-attachments/assets/2b862cee-3a89-48b1-84c4-bcbbd510c3be" />
 
 
+
+🎵 3. Track Key & Audio Profile Analysis
+
+* **Dataset & Scope:** Profiled top-ranking hits to evaluate musical keys, modes, and multi-attribute audio feature compositions .
+* **The 'Key' to a HIT Matrix:** Mapped top tracks against musical keys (B, C#, D, F, G#) and modes (Major/Minor), colour-coded by average popularity score .
+* **Audio Feature Radar Profile:** Plotted overlapping radar chart profiles across core audio attributes—including Acousticness, Danceability, Duration, Energy, Tempo, and Valence .
+* **Track Filtering & Limits:** Incorporated dynamic multi-select filters and Top N rank limits (filtered to Top 10 by average popularity) to enable targeted track-level profiling .
+<img width="2346" height="1260" alt="image" src="https://github.com/user-attachments/assets/79f3eae4-81e8-420e-b929-8054197c8dd5" />
